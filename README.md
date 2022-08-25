@@ -30,6 +30,9 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   
   - Du trykker da på "+" for og godkjenne det du har redigert
   -Deretter kommenterer du hva du har forandret og trykket "commit":
+  
   ![image](https://user-images.githubusercontent.com/112080849/186668298-be5fed61-c313-4c7c-970e-619a88c64450.png)
+  
   -for eg da sende det til github prosjektet, må trykke på oppover pilen som heter "push"
+  
   ![image](https://user-images.githubusercontent.com/112080849/186668576-591fd1c3-6d1e-44b1-9342-d8bdf6b4eee1.png)
