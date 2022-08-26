@@ -36,3 +36,39 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   -for og da sende det til github prosjektet, må du trykke på oppover-pilen som heter "push"
   
   ![image](https://user-images.githubusercontent.com/112080849/186668576-591fd1c3-6d1e-44b1-9342-d8bdf6b4eee1.png)
+  
+  
+  ### 26.08.22
+  ### lære meg grunleggende funksjoner av gazebo / ros
+  Hadde ett stort problem med å starte gazebo. Det funket første gang, men aldri etter det. Fant løsningen.
+  bruk kommandoen "gazebo --verbose", for å sjekke hva som skjer med appen, da fikk jeg beskje att den allerede kjører.
+  Deretter kan vi skrive "killall gzserver". For å slå av alle gazebo prosesser.
+  Note: skriv inn "gazebo" i terminalen for å starte programmet.
+  
+  **Kjøre en costum-world og last inn moduler fra nett **
+  Første jeg prøvde var å skrive inn kommandoen "gazebo worlds/pioneer2dx.world", som i teorien skal åpne pioneer verden, dette fungerte ikke pga VM ikke fant verden
+  La dette problemet på vent ettersom det sikker er en easy-fix som jeg ikke gidder å ta meg tid til nå
+  
+  Laste inn moduler er litt av en opplevelse. Først går vi til "http://models.gazebosim.org/"  og finner hva enn vi ønsker å importere.
+  Deretter må vi gå inn i file-explorer -> home -> "model_editor_models" -> lag en mappe for det du skal importere -> legg inn .sdf og .config filene fra nettsiden.
+  
+  **Lage en robot i gazebo**
+  Følgte en guide på youtube om hvordan å bygge en "bil" fra scratch:
+  
+  ![image](https://user-images.githubusercontent.com/112080849/186897017-2f245172-8d9b-4b78-846b-d00b9f13c5f8.png)
+
+  guide som jeg følgte her:_ "https://www.youtube.com/watch?v=_qQAfTmB5wc&t=377s"
+  
+  ### La det forgie litt på hyllen og begynte på costum verdener
+  Hvordan å launce f.eks. turtlebot3:
+  
+  ![image](https://user-images.githubusercontent.com/112080849/186930925-64a66525-260b-4a4a-ac99-c112a4672269.png)
+
+  Deretter kan vi også f.eks. åpne ett nytt terminal vindu for å styre roboten:
+  
+  ![image](https://user-images.githubusercontent.com/112080849/186931320-bda7f4dd-f424-4a03-8ef7-37935eabc7a0.png)
+
+
+
+https://user-images.githubusercontent.com/112080849/186932850-ff752d45-3947-46d1-b155-87f615d882a2.mp4
+
