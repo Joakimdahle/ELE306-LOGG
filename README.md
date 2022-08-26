@@ -58,5 +58,5 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   ![image](https://user-images.githubusercontent.com/112080849/186897017-2f245172-8d9b-4b78-846b-d00b9f13c5f8.png)
 
   guide som jeg følgte her:_ "https://www.youtube.com/watch?v=_qQAfTmB5wc&t=377s"
-  Nå er neste utfordring å importere ett bibliotek som inneholder ting som sensorer å karmerar osv.
+  
   
