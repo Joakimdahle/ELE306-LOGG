@@ -59,4 +59,4 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
 
   guide som jeg følgte her:_ "https://www.youtube.com/watch?v=_qQAfTmB5wc&t=377s"
   
-  
+  ### La det forgie litt på hyllen og begynte på costum verdener
