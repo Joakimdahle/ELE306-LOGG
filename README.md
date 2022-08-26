@@ -101,7 +101,8 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   https://www.universal-robots.com/download/software-cb-series/simulator-non-linux/offline-simulator-cb-series-non-linux-ursim-3158/
   Linux versjon:    
   https://www.universal-robots.com/download/software-cb-series/simulator-linux/offline-simulator-cb3-linux-ursim-3158/ 
-  Importer din inn i VMware og godta / ignorer alle errors / meldinger!
+  
+  Importer den inn i VMware og godta / ignorer alle errors / meldinger!
   
   ![image](https://user-images.githubusercontent.com/112080849/186993941-8cb272da-7e64-4c14-8788-14875914e602.png)
 
