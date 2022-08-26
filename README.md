@@ -1,7 +1,7 @@
 # ELE306
 
 
-##GITHUB
+## GITHUB
 
 
 ### 25.08.22
@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   ![image](https://user-images.githubusercontent.com/112080849/186668576-591fd1c3-6d1e-44b1-9342-d8bdf6b4eee1.png)
   
   
-  ##ROS / GAZEBO
+  ## ROS / GAZEBO
   
   
   ### 26.08.22
@@ -81,6 +81,6 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   https://user-images.githubusercontent.com/112080849/186932850-ff752d45-3947-46d1-b155-87f615d882a2.mp4
 
 
-  ##UNIVERSAL ROBOTS SIM
+  ## UNIVERSAL ROBOTS SIM
   
   
