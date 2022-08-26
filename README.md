@@ -44,3 +44,15 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   bruk kommandoen "gazebo --verbose", for å sjekke hva som skjer med appen, da fikk jeg beskje att den allerede kjører.
   Deretter kan vi skrive "killall gzserver". For å slå av alle gazebo prosesser.
   Note: skriv inn "gazebo" i terminalen for å starte programmet.
+  
+  **Kjøre en costum-world**
+  Første jeg prøvde var å skrive inn kommandoen "gazebo worlds/pioneer2dx.world", som i teorien skal åpne pioneer verden, dette fungerte ikke pga VM ikke fant verden
+  La dette problemet på vent ettersom det sikker er en easy-fix som jeg ikke gidder å ta meg tid til nå
+  
+  **Lage en robot i gazebo**
+  Følgte en guide på youtube om hvordan å bygge en "bil" fra scratch:
+  
+  ![image](https://user-images.githubusercontent.com/112080849/186897017-2f245172-8d9b-4b78-846b-d00b9f13c5f8.png)
+
+  Nå er neste utfordring å importere ett bibliotek som inneholder ting som sensorer å karmerar osv.
+  
