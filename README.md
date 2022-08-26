@@ -36,3 +36,11 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   -for og da sende det til github prosjektet, må du trykke på oppover-pilen som heter "push"
   
   ![image](https://user-images.githubusercontent.com/112080849/186668576-591fd1c3-6d1e-44b1-9342-d8bdf6b4eee1.png)
+  
+  
+  ### 26.08.22
+  ### lære meg grunleggende funksjoner av gazebo / ros
+  Hadde ett stort problem med å starte gazebo. Det funket første gang, men aldri etter det. Fant løsningen.
+  bruk kommandoen "gazebo --verbose", for å sjekke hva som skjer med appen, da fikk jeg beskje att den allerede kjører.
+  Deretter kan vi skrive "killall gzserver". For å slå av alle gazebo prosesser.
+  Note: skriv inn "gazebo" i terminalen for å starte programmet.
