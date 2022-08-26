@@ -45,9 +45,10 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   Deretter kan vi skrive "killall gzserver". For å slå av alle gazebo prosesser.
   Note: skriv inn "gazebo" i terminalen for å starte programmet.
   
-  **Kjøre en costum-world**
+  **Kjøre en costum-world og last inn moduler fra nett **
   Første jeg prøvde var å skrive inn kommandoen "gazebo worlds/pioneer2dx.world", som i teorien skal åpne pioneer verden, dette fungerte ikke pga VM ikke fant verden
   La dette problemet på vent ettersom det sikker er en easy-fix som jeg ikke gidder å ta meg tid til nå
+  Fikk heller ikke til å laste inn moduler
   
   **Lage en robot i gazebo**
   Følgte en guide på youtube om hvordan å bygge en "bil" fra scratch:
