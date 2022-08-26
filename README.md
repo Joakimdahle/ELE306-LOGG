@@ -60,3 +60,15 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   guide som jeg følgte her:_ "https://www.youtube.com/watch?v=_qQAfTmB5wc&t=377s"
   
   ### La det forgie litt på hyllen og begynte på costum verdener
+  Hvordan å launce f.eks. turtlebot3:
+  
+  ![image](https://user-images.githubusercontent.com/112080849/186930925-64a66525-260b-4a4a-ac99-c112a4672269.png)
+
+  Deretter kan vi også f.eks. åpne ett nytt terminal vindu for å styre roboten:
+  
+  ![image](https://user-images.githubusercontent.com/112080849/186931320-bda7f4dd-f424-4a03-8ef7-37935eabc7a0.png)
+
+
+
+https://user-images.githubusercontent.com/112080849/186932850-ff752d45-3947-46d1-b155-87f615d882a2.mp4
+
