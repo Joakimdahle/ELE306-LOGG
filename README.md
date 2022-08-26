@@ -93,7 +93,7 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
   
   
   ### 26.08.22
-  ###laste ned og forstå grunnleggende elementar av simulering av robot arm
+  ### laste ned og forstå grunnleggende elementar av simulering av robot arm
   
   ![image](https://user-images.githubusercontent.com/112080849/186993941-8cb272da-7e64-4c14-8788-14875914e602.png)
 
