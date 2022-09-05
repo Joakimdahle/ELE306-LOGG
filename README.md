@@ -116,5 +116,4 @@ https://user-images.githubusercontent.com/112080849/186656888-151996bf-3bfd-4e82
      da vil matlab se slik ut:
   ![image](https://user-images.githubusercontent.com/112080849/188493601-c2133907-a44c-4dee-8bf6-d7ae4c25e8cc.png)
   *   step 3: skriv inn "rtbdemo" i kommand vinduet og trykk "D* navigation".
-  *   step 4: dersom vi ønsker å forandre på forskjellige ting, kan vi kjøre det ved å redigere ".m" filen. Vi kan forandre start punkt, veridene til forskjellige    
-      celler osv.
+  *   step 4: dersom vi ønsker å forandre på forskjellige ting, kan vi kjøre det ved å redigere ".m" filen. Vi kan forandre start punkt, veridene til forskjellige  celler osv
